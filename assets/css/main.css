@@ -155,6 +155,7 @@ a:after {
 #headerwrap {
 	background: url(/assets/img/header-bg.jpg) no-repeat center top;
 	margin-top: 60px;
+  margin-left: 60px;
 	padding-top:140px;
 	text-align:center;
 	/*background-attachment: relative;*/
