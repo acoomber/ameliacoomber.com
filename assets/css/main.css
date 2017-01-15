@@ -157,7 +157,9 @@ a:after {
 	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;
-	background-attachment: relative;
+	/*background-attachment: relative;*/
+  background-attachment: centered;
+
 	background-position: center center;
   	/*background-position: center center;*/
 	min-height: 500px;
