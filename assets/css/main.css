@@ -158,10 +158,10 @@ a:after {
 	padding-top:140px;
 	text-align:center;
 	background-attachment: relative;
-	background-position: 50% 50%;
+	background-position: center center;
   	/*background-position: center center;*/
 	min-height: 500px;
-	width: 50%;
+	width: 100%;
 
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
