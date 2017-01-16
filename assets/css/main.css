@@ -153,11 +153,12 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	background: url(/assets/img/header-bg.jpg) no-repeat center top;
+	background: url(/assets/img/3header-bg.jpg) no-repeat center top;
 	margin-top: 60px;
-  margin-left: 80px;
+  margin-left: 180px;
 	padding-top:140px;
-	text-align:center;
+	text-align:center ;
+
 	/*background-attachment: relative;*/
   background-attachment: centered;
 
