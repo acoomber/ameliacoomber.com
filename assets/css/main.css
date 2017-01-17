@@ -96,7 +96,7 @@ a:after {
 }
 
 #topbar-inner {
-	background: #111;
+	background:#9CD7DF;
 	line-height: 0;
 	text-align: center;
 }
@@ -196,8 +196,8 @@ a:after {
 /* Intnro Wrap */
 
 #intro {
-	/*background: #2c3e50;*/
-background:#581845;
+	background: #27828F;
+/*background:#581845;*/
 	padding-top: 60px;
 	padding-bottom: 60px;
 	color: white;
@@ -217,7 +217,7 @@ background:#581845;
 
 #skillswrap {
 	/*background: #2c3e50;*/
-background:  #900C3F    ;
+background:  #9CD7DF   ;
 	padding-top: 60px;
 	padding-bottom: 60px;
 	color: white;
@@ -228,7 +228,7 @@ background:  #900C3F    ;
 }
 
 #footwrap {
-	background: #FFC300 ;
+	background: #9CD7DF ;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
@@ -278,14 +278,14 @@ background:  #900C3F    ;
 
 .desc t {
 	/*color: #e46683;*/
-  color: #e2335b;
+  color: #9CD7DF;
 	font-weight: 700;
 }
 
 .desc imp {
 	padding: 6px;
-	color: white;
-	background: #FF5733  ;
+	color: #555555;
+	background: #b4e8e7 ;
 }
 
 .desc more {
