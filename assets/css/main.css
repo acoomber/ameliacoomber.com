@@ -160,13 +160,13 @@ a:after {
 /* Header Wrap */
 #headerwrap {
 	background: url(/assets/img/3header-bg.jpg) no-repeat center top;
-	margin-top: 60px;
+	margin-top: 80px;
   /*margin-left: 180px;*/
 	padding-top:140px;
 	text-align:center ;
 
 	/*background-attachment: relative;*/
-  background-attachment: centered;
+  background-attachment: relative;
 
 	background-position: center center;
   	/*background-position: center center;*/
