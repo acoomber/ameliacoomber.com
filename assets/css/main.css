@@ -160,7 +160,7 @@ a:after {
 /* Header Wrap */
 #headerwrap {
 	background: url(/assets/img/3header-bg.jpg) no-repeat center top;
-	margin-top: 80px;
+	margin-top: 60px;
   /*margin-left: 180px;*/
 	padding-top:140px;
 	text-align:center ;
@@ -171,7 +171,7 @@ a:after {
 	background-position: center center;
   	/*background-position: center center;*/
 	min-height: 500px;
-	width: 100%;
+	width: auto;;
 
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -200,7 +200,7 @@ a:after {
 #intro {
 	background: #27828F;
 /*background:#581845;*/
-	padding-top: 60px;
+	padding-top: 40px;
 	padding-bottom: 60px;
 	color: white;
 }
@@ -271,6 +271,11 @@ background:  #9CD7DF   ;
 
 
 /* Global Values */
+
+.fun_icons {
+  list-style-image:url(assets/img/icons/coding.png);
+
+}
 
 .desc {
 	padding-top: 50px;
