@@ -216,6 +216,29 @@
                 var myDoughnut = new Chart(document.getElementById("Java").getContext("2d")).Doughnut(doughnutData);
             </script>
           </div>
+
+
+          <div class="col-lg-3 centered">
+            <canvas id="bash" height="130" width="130"></canvas>
+            <p>Bash</p>
+            <br>
+            <script>
+              var doughnutData = [
+                  {
+                    value: 70,
+                    color:"#1abc9c"
+                  },
+                  {
+                    value : 30,
+                    color : "#ecf0f1"
+                  }
+                ];
+                var myDoughnut = new Chart(document.getElementById("bash").getContext("2d")).Doughnut(doughnutData);
+            </script>
+          </div>
+
+
+
           <div class="col-lg-3 col-lg-offset-3 centered">
             <canvas id="html" height="130" width="130"></canvas>
             <p>HTML/CSS</p>
@@ -235,6 +258,24 @@
             </script>
           </div>
 
+          <div class="col-lg-3 centered">
+            <canvas id="cpp" height="130" width="130"></canvas>
+            <p>C++</p>
+            <br>
+            <script>
+              var doughnutData = [
+                  {
+                    value: 70,
+                    color:"#1abc9c"
+                  },
+                  {
+                    value : 50,
+                    color : "#ecf0f1"
+                  }
+                ];
+                var myDoughnut = new Chart(document.getElementById("cpp").getContext("2d")).Doughnut(doughnutData);
+            </script>
+          </div>
 
 
 					<div class="col-lg-3 centered">
@@ -276,27 +317,6 @@
                 var myDoughnut = new Chart(document.getElementById("javascript").getContext("2d")).Doughnut(doughnutData);
             </script>
           </div>
-
-
-                    <div class="col-lg-3 centered">
-                      <canvas id="bash" height="130" width="130"></canvas>
-                      <p>Bash</p>
-                      <br>
-                      <script>
-                        var doughnutData = [
-                            {
-                              value: 70,
-                              color:"#1abc9c"
-                            },
-                            {
-                              value : 30,
-                              color : "#ecf0f1"
-                            }
-                          ];
-                          var myDoughnut = new Chart(document.getElementById("bash").getContext("2d")).Doughnut(doughnutData);
-                      </script>
-                    </div>
-
 
 			</div><!--/.row -->
 			<br>
