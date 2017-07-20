@@ -162,7 +162,11 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	background: url(/assets/img/3header-bg.jpg) no-repeat center top;
+	/*background: url(/assets/img/3header-bg.jpg) no-repeat center top;*/
+
+  background: url("
+  /assets/img/BARTLETTcreativeLLC_SOE_2017GraduateLuncheon_banquet_078.jpg") no-repeat center top;
+
 	margin-top: 60px;
   /*margin-left: 180px;*/
 	padding-top:140px;
